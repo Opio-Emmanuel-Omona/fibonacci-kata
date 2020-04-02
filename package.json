@@ -1,0 +1,15 @@
+{
+  "name": "emma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "emma",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.2.4",
+    "jest-enzyme": "^7.1.2"
+  }
+}
